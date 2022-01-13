@@ -11,6 +11,7 @@ int main() {
     r== d/a - 3*(b/a);
     printf("d = %d\n",d);
     printf("r = %d\n",r);
+    printf ("test");
         
 
     return 0;
