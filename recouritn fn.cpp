@@ -6,6 +6,7 @@ int main(){
     int facto(int x);
     printf("%d",facto(x));
     
+    
 }
 
 int facto( int x){
