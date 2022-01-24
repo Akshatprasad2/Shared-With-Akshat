@@ -16,6 +16,7 @@ int facto( int x){
     }
     else{
         temp*= x*facto(x-1);
+        printf(" hello world") ;
         return temp;
     }
 }
